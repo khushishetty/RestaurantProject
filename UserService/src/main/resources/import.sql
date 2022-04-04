@@ -1,0 +1,1 @@
+insert into usermodel values ('9886724699', 'khushishetty@gmail.com',  'khushi123', 'Khushi');
